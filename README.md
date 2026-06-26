@@ -3,9 +3,9 @@
 
 # Project Overview
 
-## This project is a simple implementation of the Caesar Cipher using Python. It allows users to encrypt or decrypt text by shifting each alphabet letter by a specified number of positions.
+ This project is a simple implementation of the Caesar Cipher using Python. It allows users to encrypt or decrypt text by shifting each alphabet letter by a specified number of positions.
 
-# This project was created to practice basic Python programming concepts and to understand the fundamentals of classical encryption techniques.
+ This project was created to practice basic Python programming concepts and to understand the fundamentals of classical encryption techniques.
 
 
 # Technologies Used
